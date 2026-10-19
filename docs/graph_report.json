@@ -1,0 +1,39 @@
+{
+  "timestamp": "2026-07-30T22:14:01.663264+00:00",
+  "database": "neo4j",
+  "nodes": {
+    "Patient": 1163,
+    "Provider": 5056,
+    "Organization": 1127,
+    "Encounter": 61459,
+    "Condition": 38094,
+    "Medication": 56430,
+    "Procedure": 83823,
+    "Observation": 120823
+  },
+  "relationships": {
+    "HAS_ENCOUNTER": 61459,
+    "HAS_CONDITION": 38094,
+    "HAS_MEDICATION": 56430,
+    "HAS_PROCEDURE": 83823,
+    "HAS_OBSERVATION": 120823,
+    "ATTENDED_BY": 61459,
+    "LOCATION_AT": 61459,
+    "WORKS_AT": 5056
+  },
+  "statistics": {
+    "total_nodes": 367975,
+    "total_relationships": 488603,
+    "avg_encounters_per_patient": 52.85,
+    "chronic_conditions_count": 8169,
+    "active_medications_count": 2713,
+    "max_encounters_single_patient": {
+      "patient_id": "ef167059-cef0-12c4-49db-993ca3a20c01",
+      "encounter_count": 1563
+    }
+  },
+  "validations": {
+    "orphan_check_passed": true,
+    "overall_status": "PASSED"
+  }
+}

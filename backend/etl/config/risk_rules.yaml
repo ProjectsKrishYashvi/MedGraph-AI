@@ -1,0 +1,60 @@
+# Risk Rules Configuration
+# Used by the ETL pipeline to classify High-Risk patients.
+# A patient is considered High-Risk if they meet >= `min_criteria_met` of the active rules.
+
+high_risk_threshold:
+  min_criteria_met: 3
+
+rules:
+  - name: has_diabetes
+    type: condition_flag
+    feature_column: has_diabetes
+    value: 1
+
+  - name: has_hypertension
+    type: condition_flag
+    feature_column: has_hypertension
+    value: 1
+
+  - name: has_ckd
+    type: condition_flag
+    feature_column: has_ckd
+    value: 1
+
+  - name: has_heart_failure
+    type: condition_flag
+    feature_column: has_heart_failure
+    value: 1
+
+  - name: has_copd
+    type: condition_flag
+    feature_column: has_copd
+    value: 1
+
+  - name: multiple_chronic_conditions
+    type: condition_count
+    feature_column: chronic_conditions
+    operator: ">="
+    value: 3
+
+  - name: poorly_controlled_diabetes
+    type: observation_threshold
+    feature_column: latest_hba1c
+    operator: ">"
+    value: 7.0
+
+  - name: uncontrolled_hypertension
+    type: observation_threshold
+    feature_column: latest_systolic_bp
+    operator: ">"
+    value: 140.0
+
+  - name: elderly_with_chronic_disease
+    type: composite
+    conditions:
+      - feature_column: age
+        operator: ">="
+        value: 65
+      - feature_column: chronic_conditions
+        operator: ">="
+        value: 2

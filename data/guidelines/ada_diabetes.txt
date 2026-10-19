@@ -1,0 +1,244 @@
+American Diabetes Association — Standards of Medical Care in Diabetes
+Clinical Practice Recommendations
+Source: ADA Standards of Care — Adapted for MedGraph AI RAG Subsystem
+
+=============================================================================
+SECTION 1: DIABETES COMPREHENSIVE CARE — OVERVIEW
+=============================================================================
+
+The goals of diabetes management are:
+1. Prevent or delay the development of complications
+2. Treat existing complications
+3. Improve quality of life and reduce morbidity and mortality
+
+The foundation of diabetes care includes:
+- Glycemic management (HbA1c, time-in-range, fasting and postprandial glucose)
+- Blood pressure control
+- Lipid management
+- Weight management
+- Smoking cessation
+- Physical activity promotion
+- Self-management education and support (DSMES)
+- Psychological care and screening for diabetes distress
+
+Team-based care: Optimal diabetes management requires a multidisciplinary team including primary care physician, endocrinologist, certified diabetes care and education specialist (CDCES), registered dietitian nutritionist (RDN), pharmacist, and mental health professional.
+
+=============================================================================
+SECTION 2: GLYCEMIC MONITORING AND TECHNOLOGY
+=============================================================================
+
+Hemoglobin A1c (HbA1c):
+- Reflects average blood glucose over the preceding 2-3 months
+- Test at least twice per year in stable patients; every 3 months when therapy is changed or targets not met
+- Point-of-care HbA1c testing: Acceptable with NGSP-certified methods (results available within minutes at clinic visit)
+- Limitations: Inaccurate in hemolytic anemia, hemoglobinopathies (sickle cell disease, thalassemia); affected by iron deficiency, pregnancy
+
+Time-in-Range (TIR):
+- Glucose Management Indicator (GMI): Estimated HbA1c from CGM data
+- TIR target (70-180 mg/dL): > 70% of time for most adults with T1DM or T2DM on insulin
+- Time Below Range (TBR) target (< 70 mg/dL): < 4% of time
+- Time Above Range (TAR) target (> 180 mg/dL): < 25% of time
+
+Self-monitoring of blood glucose (SMBG):
+- Recommended for patients on insulin regimens to detect asymptomatic hypoglycemia
+- For patients on oral agents only: Less evidence for benefit; consider situational monitoring (illness, symptom assessment)
+
+=============================================================================
+SECTION 3: OBESITY AND WEIGHT MANAGEMENT IN DIABETES
+=============================================================================
+
+Weight management targets:
+- Weight loss of >= 5% reduces HbA1c, triglycerides, blood pressure, and reduces need for diabetes medications
+- Weight loss of >= 10-15% may lead to partial or complete diabetes remission in patients with T2DM of shorter duration (< 10 years)
+- Sustained weight loss of >= 15-20%: Associated with long-term diabetes remission (LOOK AHEAD, DiRECT trials)
+
+Pharmacotherapy for obesity in patients with T2DM:
+- GLP-1 receptor agonists: Semaglutide (Ozempic/Wegovy), liraglutide (Victoza/Saxenda) — 5-15% weight reduction
+- GIP/GLP-1 dual agonist: Tirzepatide (Mounjaro) — up to 20-22% weight reduction (SURMOUNT trials)
+- Consider anti-obesity medications when BMI >= 30 kg/m2, or >= 27 kg/m2 with weight-related comorbidities
+
+Metabolic/bariatric surgery:
+- Recommended for adults with T2DM and BMI >= 40 kg/m2 (regardless of glycemic control)
+- Recommended for adults with T2DM and BMI 35-39.9 kg/m2 when glycemic control is inadequate despite optimal medical therapy
+- May be considered in BMI 30-34.9 kg/m2 with inadequate glycemic control
+- Procedures: Roux-en-Y gastric bypass, sleeve gastrectomy; bypass procedures have superior glycemic outcomes
+
+=============================================================================
+SECTION 4: HYPERTENSION MANAGEMENT IN DIABETES
+=============================================================================
+
+Blood pressure targets in diabetes:
+- Most adults with diabetes and hypertension: Target < 130/80 mmHg
+- Older adults (>= 65 years) or with cardiovascular disease: Target < 130/80 mmHg (if tolerated)
+- Avoid target SBP < 120 mmHg in older adults with diabetes (increased risk of adverse events)
+
+Measurement: Confirmed with multiple measurements on multiple occasions; use validated device with appropriate cuff size.
+
+Lifestyle interventions for hypertension in diabetes:
+- DASH dietary pattern: Reduce SBP by 5-11 mmHg
+- Sodium restriction (< 2.3 g/day): Reduces SBP by 3-5 mmHg
+- Weight loss (5-10% body weight): Reduces SBP by 5-20 mmHg per 10 kg lost
+- Aerobic exercise: 30 min/day, 5 days/week — reduces SBP by 5-8 mmHg
+- Alcohol moderation
+
+Pharmacological treatment:
+- Start pharmacotherapy when SBP >= 130 mmHg confirmed on two occasions
+- First-line agents: ACE inhibitor OR ARB (NOT both) — particularly indicated in DKD (albuminuria)
+- If ACE inhibitor/ARB cannot be used: amlodipine (CCB) or thiazide-like diuretic
+- Most patients require two or more agents to achieve < 130/80 mmHg target
+- Once-daily regimens and fixed-dose combinations improve adherence
+
+=============================================================================
+SECTION 5: DYSLIPIDEMIA MANAGEMENT IN DIABETES
+=============================================================================
+
+Lipid screening: Obtain fasting lipid profile at initial diabetes evaluation, at age 10 (for children with T2DM), and periodically (every 5 years, or more frequently if indicated).
+
+Statin therapy — primary prevention:
+- Age 40-75 years with T2DM: Moderate-intensity statin therapy regardless of LDL level
+- Age < 40 years: Consider moderate-intensity statin if LDL > 100 mg/dL or other CVD risk factors
+- Age > 75 years: Individualize decision; continue statin if already tolerated
+
+Statin therapy — secondary prevention (established ASCVD):
+- High-intensity statin: Atorvastatin 40-80 mg/day or rosuvastatin 20-40 mg/day
+- Target LDL-C: < 70 mg/dL (< 1.8 mmol/L); consider < 55 mg/dL for very high-risk patients
+
+Add-on non-statin therapy (when LDL-C remains above target on maximum tolerated statin):
+- Ezetimibe: Reduces LDL-C by additional 15-20%; proven CVD event reduction (IMPROVE-IT trial)
+- PCSK9 inhibitors (alirocumab, evolocumab): Reduces LDL-C by 50-60%; consider in very high-risk patients
+
+Triglyceride management:
+- Lifestyle modification (reduce refined carbohydrates, alcohol, added sugars): First-line
+- Triglycerides 500-1000 mg/dL: Fibrate therapy (fenofibrate) to reduce pancreatitis risk
+- Omega-3 fatty acids (icosapentaenoic acid, EPA): Vascepa (4 g/day) reduces cardiovascular events in patients with elevated triglycerides (>= 150 mg/dL) on statin therapy (REDUCE-IT trial)
+
+=============================================================================
+SECTION 6: CARDIOVASCULAR DISEASE AND DIABETES
+=============================================================================
+
+Cardiovascular risk assessment:
+- Adults with T2DM are at substantially elevated risk of ASCVD (coronary artery disease, stroke, peripheral arterial disease)
+- Risk calculators: AHA/ACC Pooled Cohort Equations, UKPDS Risk Engine (diabetes-specific)
+- 10-year ASCVD risk > 10%: High-risk category requiring aggressive intervention
+
+Cardioprotective medications (recommended for patients with T2DM and established CVD, heart failure, or high CVD risk):
+
+SGLT-2 inhibitors (empagliflozin, canagliflozin, dapagliflozin):
+- Established ASCVD or high CVD risk: Reduce major adverse cardiovascular events (MACE) by 11-14% (EMPA-REG, CANVAS, DECLARE trials)
+- Heart failure with reduced ejection fraction (HFrEF): Reduce hospitalizations for heart failure by 30-35% regardless of diabetes status
+- CKD: Reduces kidney disease progression (DAPA-CKD, CREDENCE trials)
+
+GLP-1 receptor agonists (semaglutide, liraglutide, dulaglutide):
+- Established ASCVD: Reduce MACE risk by 12-26% (LEADER, SUSTAIN-6, REWIND trials)
+- Weight loss benefits (3-5 kg on average, up to 15% with high-dose semaglutide)
+- Not recommended in patients with personal or family history of medullary thyroid cancer or MEN2
+
+Aspirin therapy:
+- Secondary prevention (established ASCVD): Low-dose aspirin 75-100 mg/day recommended
+- Primary prevention: Consider in high CVD risk patients (10-year risk > 10%) without high bleeding risk; increasing evidence against routine use for primary prevention
+
+=============================================================================
+SECTION 7: CHRONIC KIDNEY DISEASE AND DIABETES
+=============================================================================
+
+Screening for diabetic kidney disease:
+- Begin DKD screening at T2DM diagnosis (CKD may already be present at time of T2DM diagnosis)
+- Annual eGFR and urinary ACR for all patients with T2DM
+
+Staging of albuminuria in T2DM:
+- Normal: ACR < 30 mg/g — Annual monitoring
+- Mildly elevated (microalbuminuria): ACR 30-299 mg/g — RAAS blockade with ACE inhibitor or ARB
+- Severely elevated (macroalbuminuria): ACR >= 300 mg/g — Intensify RAAS blockade, add SGLT-2 inhibitor
+
+Preventing CKD progression in T2DM:
+1. ACE inhibitor or ARB (not both) — reduces proteinuria by 30-40%, slows GFR decline
+2. SGLT-2 inhibitor — additional 30-40% relative risk reduction in CKD progression (empagliflozin, dapagliflozin)
+3. Optimize glycemic control: Every 1% reduction in HbA1c reduces microvascular complications (including nephropathy) by 37%
+4. Strict blood pressure control: < 130/80 mmHg
+5. Avoid nephrotoxic agents: NSAIDs, IV contrast (use with caution, ensure adequate hydration and eGFR monitoring), aminoglycosides
+
+Medication considerations in advanced DKD:
+- Discontinue metformin when eGFR < 30 mL/min/1.73m2
+- SGLT-2 inhibitors: Continue at eGFR >= 20 for cardiorenal protection (empagliflozin, dapagliflozin); glycemic efficacy diminished at eGFR < 30
+- Insulin dose reduction required as GFR declines (kidney is responsible for 30-40% of insulin clearance)
+- Sulfonylureas: Avoid or use extreme caution in GFR < 30; prefer glipizide with lowest effective dose
+
+=============================================================================
+SECTION 8: DIABETES IN OLDER ADULTS
+=============================================================================
+
+Considerations for diabetes management in patients aged >= 65 years:
+
+Glycemic targets:
+- Healthy older adults (few coexisting chronic conditions, intact cognitive and functional status): HbA1c < 7.0-7.5%
+- Complex/intermediate health status (multiple coexisting conditions, cognitive impairment or functional dependence): HbA1c < 8.0%
+- Very complex/poor health (long-term care residents, end-stage disease, frailty): HbA1c < 8.5%; avoid symptomatic hyperglycemia
+
+Hypoglycemia risk in older adults:
+- Older adults are at substantially higher risk of severe hypoglycemia and its consequences (falls, fractures, cognitive decline, cardiovascular events, hospitalization)
+- Prefer hypoglycemia-safe medications: GLP-1 agonists, DPP-4 inhibitors, SGLT-2 inhibitors
+- Avoid or use extreme caution with sulfonylureas (especially glyburide) and insulin regimens in frail elderly
+
+Deprescribing in older adults with diabetes:
+- Consider relaxing glycemic targets and simplifying regimens in patients with limited life expectancy, severe hypoglycemia unawareness, or complex care needs
+- Reduce polypharmacy: Identify and discontinue low-value medications
+
+Cognitive decline and dementia:
+- T2DM is independently associated with 1.5-2x increased risk of dementia
+- Optimize cardiovascular risk factors to reduce dementia risk
+- Simplify medication regimens in cognitively impaired patients; avoid hypoglycemia-prone medications
+
+=============================================================================
+SECTION 9: DIABETES — SELF-MANAGEMENT EDUCATION
+=============================================================================
+
+Diabetes Self-Management Education and Support (DSMES):
+- All patients with diabetes should receive DSMES at diagnosis and regularly thereafter
+- Four critical time points for DSMES referral:
+  1. At diagnosis
+  2. Annually or when not meeting treatment goals
+  3. When complicating factors develop (medical, physical, psychosocial)
+  4. When transitions in care occur
+
+Key DSMES topics:
+- Healthy eating and meal planning
+- Physical activity and its effects on blood glucose
+- Medication management and adherence
+- Blood glucose monitoring and pattern management
+- Sick day management
+- Prevention, detection, and treatment of hypoglycemia and hyperglycemia
+- Foot care and daily foot inspection
+- Diabetes distress, depression, and mental health
+
+Physical activity recommendations:
+- Aerobic activity: >= 150 minutes/week of moderate-intensity, OR >= 75 minutes/week vigorous-intensity; avoid > 2 consecutive days without exercise
+- Resistance training: >= 2-3 sessions per week on non-consecutive days
+- Sedentary time: Break up prolonged sitting every 30 minutes; prolonged sitting independently associated with hyperglycemia
+- Older adults: Add flexibility and balance training to reduce fall risk
+
+=============================================================================
+SECTION 10: PREVENTIVE CARE AND IMMUNIZATIONS IN DIABETES
+=============================================================================
+
+Annual care checklist for patients with T2DM:
+- HbA1c: Every 3 months (if not at goal) or every 6 months (if stable at goal)
+- Blood pressure: At every visit
+- Lipid panel: At least annually (more frequently if not at goal)
+- Urine ACR: Annually
+- eGFR: Annually
+- Foot examination: Comprehensive annual foot exam; visual inspection at every visit
+- Dilated eye exam: Annual ophthalmology referral for diabetic retinopathy screening
+- Dental exam: Every 6 months (periodontal disease associated with poor glycemic control)
+- Depression/diabetes distress screening: At diagnosis and periodically (PHQ-9 or Problem Areas in Diabetes scale)
+
+Immunizations:
+- Influenza vaccine: Annually
+- Pneumococcal vaccine (PCV20 or PPSV23): Per age-based recommendations
+- Hepatitis B vaccine: Unvaccinated adults < 60 years with T2DM; consider ages >= 60 years
+- COVID-19 vaccine: Per current public health recommendations
+- Zoster vaccine (Shingrix): Adults >= 50 years with T2DM (high risk for herpes zoster complications)
+
+Neuropathy screening:
+- Comprehensive foot examination including 10-g monofilament testing and vibration testing (128-Hz tuning fork) annually
+- Diabetic peripheral neuropathy affects up to 50% of patients with long-duration T2DM
+- Treatment: Pregabalin, duloxetine, or gabapentin for painful diabetic neuropathy (symptomatic relief, not disease-modifying)

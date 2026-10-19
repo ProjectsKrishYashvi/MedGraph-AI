@@ -1,0 +1,215 @@
+KDIGO 2024 Clinical Practice Guidelines
+Chronic Kidney Disease: Evaluation and Management
+Source: Kidney Disease: Improving Global Outcomes (KDIGO) — Adapted for MedGraph AI RAG Subsystem
+
+=============================================================================
+SECTION 1: CKD DEFINITION AND STAGING
+=============================================================================
+
+Chronic Kidney Disease (CKD) is defined as abnormalities of kidney structure or function, present for more than 3 months, with implications for health.
+
+CKD is confirmed by any of the following markers present for > 3 months:
+- Glomerular filtration rate (GFR) < 60 mL/min/1.73m2 (GFR categories G3a-G5)
+- Markers of kidney damage: Albuminuria (AER >= 30 mg/24h, ACR >= 30 mg/g), urine sediment abnormalities, electrolyte and other disorders due to tubular disorders, histological abnormalities, structural abnormalities by imaging, history of kidney transplantation
+
+GFR Categories (G1-G5):
+- G1: GFR >= 90 mL/min/1.73m2 — Normal or high (CKD if kidney damage markers present)
+- G2: GFR 60-89 mL/min/1.73m2 — Mildly decreased
+- G3a: GFR 45-59 mL/min/1.73m2 — Mildly to moderately decreased
+- G3b: GFR 30-44 mL/min/1.73m2 — Moderately to severely decreased
+- G4: GFR 15-29 mL/min/1.73m2 — Severely decreased
+- G5: GFR < 15 mL/min/1.73m2 — Kidney failure (dialysis or transplant required)
+
+Albuminuria Categories (A1-A3):
+- A1: ACR < 30 mg/g — Normal to mildly increased
+- A2: ACR 30-300 mg/g — Moderately increased (formerly "microalbuminuria")
+- A3: ACR > 300 mg/g — Severely increased (formerly "macroalbuminuria")
+
+Risk stratification: CKD risk is jointly determined by GFR category and albuminuria category. High and very high-risk categories require more frequent monitoring and aggressive management.
+
+=============================================================================
+SECTION 2: CKD — CAUSES AND SCREENING
+=============================================================================
+
+Most common causes of CKD globally:
+1. Diabetic kidney disease (diabetic nephropathy) — accounts for approximately 30-40% of all CKD cases
+2. Hypertensive nephrosclerosis — approximately 25% of CKD cases
+3. Glomerulonephritis — approximately 10-15% of CKD cases
+4. Polycystic kidney disease (PKD)
+5. Recurrent urinary tract infections / pyelonephritis
+6. Obstructive uropathy
+7. Drug-induced nephrotoxicity (NSAIDs, aminoglycosides, contrast agents)
+
+Screening recommendations:
+- Annual screening with eGFR and urine ACR for ALL patients with:
+  - Diabetes mellitus (type 1 or type 2)
+  - Hypertension
+  - Age >= 60 years
+  - Family history of CKD or hereditary kidney disease
+  - History of acute kidney injury (AKI)
+  - Obesity (BMI >= 30 kg/m2)
+  - Cardiovascular disease
+
+=============================================================================
+SECTION 3: CKD — BLOOD PRESSURE MANAGEMENT
+=============================================================================
+
+Blood pressure targets in CKD:
+- CKD with albuminuria (ACR >= 30 mg/g): Target SBP < 120 mmHg (intensive BP control; based on SPRINT and ACCORD trials)
+- CKD without albuminuria: Target SBP < 130 mmHg
+- CKD with diabetes: Target < 130/80 mmHg
+
+Preferred antihypertensive agents in CKD:
+1. ACE inhibitors (e.g., lisinopril, ramipril, enalapril):
+   - First-choice in CKD with albuminuria (ACR >= 30 mg/g)
+   - Reduce proteinuria by 30-40% beyond BP-lowering effects
+   - Caution: May worsen hyperkalemia; monitor potassium and creatinine at 1-2 weeks after initiation or dose increase
+   - Do not use if eGFR < 30 mL/min/1.73m2 unless specialist guidance available
+   
+2. ARBs (e.g., losartan, irbesartan, valsartan):
+   - Equivalent renoprotective efficacy to ACE inhibitors
+   - Preferred when ACE inhibitor cough is intolerable
+   - Do NOT combine ACE inhibitor + ARB (dual RAAS blockade increases risk of AKI and hyperkalemia without additional benefit)
+   
+3. Dihydropyridine calcium channel blockers (e.g., amlodipine):
+   - Safe and effective add-on in CKD
+   - Less effective at reducing proteinuria than ACE inhibitors/ARBs when used alone
+   
+4. Loop diuretics (e.g., furosemide):
+   - Preferred over thiazides when eGFR < 30 mL/min/1.73m2 (thiazides are less effective at low GFR)
+   - Essential for managing volume overload and edema in advanced CKD
+
+=============================================================================
+SECTION 4: DIABETIC KIDNEY DISEASE — MANAGEMENT
+=============================================================================
+
+Diabetic kidney disease (DKD) is the leading cause of CKD worldwide. Optimal management requires:
+
+Glycemic control:
+- HbA1c target: 7.0% (53 mmol/mol) for most patients with DKD
+- More lenient target (HbA1c < 8.0%) for elderly, frail patients, or those with high hypoglycemia risk
+- Avoid sulfonylureas (especially glyburide/glibenclamide) in advanced CKD — high risk of hypoglycemia
+- Insulin dose requirements decrease as kidney function declines
+
+SGLT-2 inhibitors in DKD:
+- Empagliflozin, canagliflozin, dapagliflozin are recommended for patients with T2DM and CKD (eGFR >= 20 mL/min/1.73m2)
+- Benefits: Slows CKD progression (reduces risk of 40% decline in eGFR, kidney failure, or death from kidney causes by 30-40%)
+- Reduces hospitalizations for heart failure
+- Mechanism of renoprotection: Tubuloglomerular feedback, reduced intraglomerular pressure, anti-fibrotic effects
+
+GLP-1 receptor agonists in DKD:
+- Semaglutide and liraglutide have demonstrated reduction in new-onset albuminuria and progression of DKD
+- Weight reduction benefits further improve cardiorenal outcomes
+
+Finerenone (non-steroidal MRA):
+- Indicated for CKD associated with T2DM (eGFR >= 25 mL/min/1.73m2, ACR >= 30 mg/g, serum potassium <= 4.8 mEq/L)
+- Reduces risk of CKD progression and cardiovascular events
+
+RAAS blockade:
+- ACE inhibitor or ARB (NOT both) is recommended for all patients with DKD and albuminuria
+- Reduces progression from microalbuminuria to macroalbuminuria
+- Reduces progression to ESKD by approximately 16-25% in patients with overt DKD
+
+=============================================================================
+SECTION 5: CKD — CARDIOVASCULAR RISK MANAGEMENT
+=============================================================================
+
+Patients with CKD have markedly elevated cardiovascular risk. CVD is the leading cause of death in CKD patients, even before reaching kidney failure.
+
+Lipid management:
+- Statin therapy is recommended for all adults with CKD aged >= 50 years
+- High-intensity statin (atorvastatin 40-80 mg) for patients with established CVD
+- Moderate-intensity statin for patients without established CVD but with CKD
+- Statins do NOT slow GFR decline but significantly reduce cardiovascular events and mortality
+- Do not initiate statins in dialysis patients without prior indication (SHARP trial evidence)
+- Avoid dose-dependent statins: adjust dose for GFR (e.g., rosuvastatin dose cap in severe CKD)
+
+Antiplatelet therapy:
+- Aspirin (75-100 mg/day) for secondary prevention of CVD in CKD patients with established CVD
+- Risk-benefit analysis required: CKD patients have both elevated cardiovascular risk AND elevated bleeding risk
+
+Anemia management:
+- Target hemoglobin: 10-12 g/dL for patients on erythropoiesis-stimulating agents (ESAs)
+- Iron supplementation: IV iron preferred over oral iron in dialysis patients (poor oral absorption)
+- Erythropoiesis-stimulating agents (ESAs): Indicated when Hgb < 10 g/dL AND iron stores are adequate (ferritin > 200 ng/mL, TSAT > 20%)
+- Avoid targeting Hgb > 13 g/dL with ESAs (increased risk of stroke and cardiovascular events)
+
+=============================================================================
+SECTION 6: CKD — MEDICATION DOSE ADJUSTMENTS
+=============================================================================
+
+Critical medications requiring dose adjustment in CKD:
+
+Antibiotics:
+- Penicillins: Reduce dose in GFR < 30 mL/min
+- Aminoglycosides: Avoid if possible; nephrotoxic, ototoxic. If necessary, monitor levels closely
+- Nitrofurantoin: Contraindicated in GFR < 30 mL/min (risk of peripheral neuropathy)
+- Fluoroquinolones: Dose reduction required in GFR < 30 mL/min
+
+Diabetes medications:
+- Metformin: Contraindicated in eGFR < 30 mL/min/1.73m2; dose reduce if eGFR 30-45 mL/min/1.73m2
+- Sulfonylureas: Avoid glyburide in CKD; use glipizide with caution (GFR > 30); consider dose reduction
+- SGLT-2 inhibitors: Reduce glucose-lowering efficacy at GFR < 30; empagliflozin/dapagliflozin may continue for cardiorenal benefit at eGFR >= 20
+- DPP-4 inhibitors: Linagliptin requires NO dose adjustment in CKD; sitagliptin/saxagliptin require dose reduction
+
+Cardiovascular medications:
+- Digoxin: Narrow therapeutic index; significant dose reduction required in CKD; monitor levels
+- Atenolol: Renally cleared; dose reduce in GFR < 35 mL/min
+- Spironolactone: Use with extreme caution in CKD (risk of life-threatening hyperkalemia); avoid if eGFR < 30
+
+Analgesics (extremely important):
+- NSAIDs (e.g., ibuprofen, naproxen, diclofenac): AVOID in CKD — cause acute vasoconstriction, reduce GFR, worsen proteinuria, increase risk of AKI
+- Opioids: Reduce dose; active metabolites accumulate in renal failure
+- Paracetamol (acetaminophen): Preferred analgesic in CKD at usual doses
+
+=============================================================================
+SECTION 7: CKD — DIETARY RECOMMENDATIONS
+=============================================================================
+
+Dietary modifications in CKD:
+
+Protein:
+- CKD stages G3-G5 (not on dialysis): Reduce protein intake to 0.6-0.8 g/kg/day
+- Dialysis patients: Increase protein to 1.0-1.2 g/kg/day to compensate for dialytic losses
+- Avoid very high protein diets (> 1.3 g/kg/day) in CKD — accelerates GFR decline
+
+Sodium:
+- Target < 2 g/day sodium (< 5 g/day salt) for all CKD patients
+- Reduces blood pressure and proteinuria
+
+Potassium:
+- Restriction required in hyperkalemia (serum potassium > 5.5 mEq/L)
+- Avoid potassium-rich foods: bananas, oranges, potatoes, tomatoes, avocado, dried fruits
+- Cooking (boiling and discarding water) reduces vegetable potassium content by 30-50%
+
+Phosphate:
+- Restriction required in hyperphosphatemia (serum phosphate > 4.5 mg/dL in CKD stages G3-G4; > 5.5 mg/dL in G5)
+- Avoid processed foods, dark colas, dairy excess
+- Phosphate binders (calcium carbonate, sevelamer) taken with meals to reduce GI absorption
+
+=============================================================================
+SECTION 8: CKD — MONITORING SCHEDULE
+=============================================================================
+
+Monitoring frequency based on CKD stage and risk:
+
+Low risk (G1-G2, A1): Annual monitoring of eGFR and ACR
+Moderate risk (G3a-G3b, A1; G1-G2, A2): Every 6 months
+High risk (G3a-G3b, A2; G4, A1): Every 3-4 months
+Very high risk (G4-G5 or A3): Every 1-3 months
+
+Laboratory monitoring panel:
+- eGFR (calculated from serum creatinine using CKD-EPI equation)
+- Urine albumin-to-creatinine ratio (ACR)
+- Serum potassium (especially on ACE inhibitor/ARB or SGLT-2 inhibitor)
+- Serum bicarbonate (metabolic acidosis is common in CKD G4-G5)
+- Hemoglobin (anemia surveillance)
+- Serum phosphate and PTH (mineral and bone disorder)
+- Blood pressure at every visit
+
+Referral to nephrology:
+- eGFR < 30 mL/min/1.73m2 (CKD G4-G5)
+- Rapid decline in eGFR (> 5 mL/min/1.73m2 per year)
+- ACR > 300 mg/g (persistent macroalbuminuria)
+- Resistant hypertension
+- Suspected glomerulonephritis or hereditary kidney disease

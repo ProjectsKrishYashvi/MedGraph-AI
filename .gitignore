@@ -1,0 +1,55 @@
+# =============================================================================
+# MedGraph AI — Git Ignore Configuration
+# =============================================================================
+
+# Environment variables & secrets (CRITICAL: Never commit API keys or passwords)
+.env
+.env.local
+.env.*.local
+*.env
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Frontend (Node / Vite)
+frontend/node_modules/
+node_modules/
+frontend/dist/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Vector Database locks & temporary state
+data/qdrant/.lock
+
+# Datasets exceeding GitHub's 100MB hard limit
+# (RxNorm RRF files exceed 180MB; download separately via NIH RxNav)
+data/RxNorm_full_prescribe_07062026/
+
+# Temporary installer scripts and personal media
+get-pip.py
+WhatsApp Image*
+
+# IDE & OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db

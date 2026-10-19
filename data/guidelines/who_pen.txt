@@ -1,0 +1,201 @@
+WHO Package of Essential NCD Interventions (WHO PEN)
+Clinical Practice Guidelines for Primary Health Care
+Source: World Health Organization — Adapted for MedGraph AI RAG Subsystem
+
+=============================================================================
+SECTION 1: HYPERTENSION — DIAGNOSIS AND CLASSIFICATION
+=============================================================================
+
+Hypertension is defined as a sustained systolic blood pressure (SBP) >= 140 mmHg and/or a diastolic blood pressure (DBP) >= 90 mmHg, confirmed on at least two separate occasions. Severe hypertension is defined as SBP >= 180 mmHg and/or DBP >= 110 mmHg.
+
+Blood Pressure Classification:
+- Normal: SBP < 120 mmHg and DBP < 80 mmHg
+- Elevated: SBP 120-129 mmHg and DBP < 80 mmHg
+- Stage 1 Hypertension: SBP 130-139 mmHg or DBP 80-89 mmHg
+- Stage 2 Hypertension: SBP >= 140 mmHg or DBP >= 90 mmHg
+- Hypertensive Crisis: SBP > 180 mmHg and/or DBP > 120 mmHg
+
+Measurement requirements: Patients should be seated quietly for 5 minutes before measurement. Two readings taken 1-2 minutes apart should be averaged. A 24-hour ambulatory blood pressure monitor (ABPM) is the preferred method for diagnosis confirmation when clinic readings are borderline.
+
+=============================================================================
+SECTION 2: HYPERTENSION — TREATMENT TARGETS
+=============================================================================
+
+Blood pressure treatment targets:
+- General adult population: Target SBP < 130 mmHg and DBP < 80 mmHg
+- Adults aged 65 years and older: Target SBP < 140 mmHg (less aggressive target due to orthostatic hypotension risk)
+- Adults with chronic kidney disease (CKD): Target SBP < 130 mmHg
+- Adults with diabetes mellitus: Target SBP < 130 mmHg and DBP < 80 mmHg
+- Adults with heart failure: Target SBP < 130 mmHg
+
+Cardiovascular risk reduction goal: Reduction in SBP by 10 mmHg reduces the risk of major cardiovascular events by approximately 20%, stroke by 35%, heart failure by 40%, and all-cause mortality by 13%.
+
+=============================================================================
+SECTION 3: HYPERTENSION — PHARMACOLOGICAL TREATMENT
+=============================================================================
+
+First-line antihypertensive medications recommended for primary hypertension:
+1. Angiotensin-Converting Enzyme (ACE) inhibitors: e.g., lisinopril, enalapril, ramipril
+   - Preferred in patients with diabetes mellitus, CKD with proteinuria, or heart failure
+   - Contraindicated in pregnancy and bilateral renal artery stenosis
+   
+2. Angiotensin Receptor Blockers (ARBs): e.g., losartan, valsartan, irbesartan
+   - Alternative to ACE inhibitors when ACE inhibitor-induced cough occurs
+   - Preferred in patients with diabetic nephropathy
+   
+3. Calcium Channel Blockers (CCBs): e.g., amlodipine, nifedipine
+   - Effective in older adults and patients of African descent
+   - Preferred when ACE inhibitors or ARBs are contraindicated
+   
+4. Thiazide diuretics: e.g., hydrochlorothiazide, chlorthalidone, indapamide
+   - Effective and low-cost first-line option
+   - Particularly effective when combined with CCBs or ACE inhibitors
+
+Combination therapy: Most patients with Stage 2 hypertension (SBP >= 140 mmHg) require two or more antihypertensive medications to achieve target BP. A fixed-dose combination (FDC) pill improves adherence.
+
+Beta-blockers (e.g., metoprolol, bisoprolol) are recommended as add-on therapy particularly in patients with:
+- Coronary artery disease or post-myocardial infarction
+- Heart failure with reduced ejection fraction
+- Atrial fibrillation requiring rate control
+
+=============================================================================
+SECTION 4: HYPERTENSION — LIFESTYLE MODIFICATIONS
+=============================================================================
+
+Non-pharmacological interventions for all hypertensive patients:
+- Dietary sodium reduction: Target < 2 g sodium/day (< 5 g salt/day). Each 1 g reduction in daily sodium intake reduces SBP by approximately 3.5 mmHg.
+- DASH diet: Dietary Approaches to Stop Hypertension — emphasizes fruits, vegetables, whole grains, lean protein, and low-fat dairy. Can reduce SBP by 8-14 mmHg.
+- Weight reduction: Each 1 kg reduction in body weight reduces SBP by approximately 1 mmHg. Target BMI < 25 kg/m2.
+- Physical activity: At least 150 minutes per week of moderate-intensity aerobic exercise (e.g., brisk walking, cycling). Can reduce SBP by 4-9 mmHg.
+- Alcohol moderation: Limit to 2 standard drinks/day for men, 1 standard drink/day for women.
+- Smoking cessation: Does not directly lower BP but substantially reduces cardiovascular risk.
+
+=============================================================================
+SECTION 5: DIABETES MELLITUS TYPE 2 — DIAGNOSIS
+=============================================================================
+
+Diagnosis of type 2 diabetes mellitus (T2DM) requires one of the following:
+- Fasting plasma glucose (FPG) >= 126 mg/dL (7.0 mmol/L) on two separate occasions
+- 2-hour plasma glucose >= 200 mg/dL (11.1 mmol/L) during 75g oral glucose tolerance test (OGTT)
+- HbA1c >= 6.5% (48 mmol/mol) confirmed on a second test
+- Random plasma glucose >= 200 mg/dL (11.1 mmol/L) with classic symptoms of hyperglycemia
+
+Pre-diabetes classification:
+- Impaired Fasting Glucose (IFG): FPG 100-125 mg/dL (5.6-6.9 mmol/L)
+- Impaired Glucose Tolerance (IGT): 2-hr PG 140-199 mg/dL during OGTT
+- Prediabetes HbA1c: 5.7-6.4% (39-47 mmol/mol)
+
+Screening recommendations: Annual screening for T2DM in adults aged >= 35 years with BMI >= 25 kg/m2, or any adult with one or more risk factors (family history of diabetes, hypertension, dyslipidemia, polycystic ovary syndrome, history of gestational diabetes, physical inactivity, race/ethnicity with elevated risk).
+
+=============================================================================
+SECTION 6: DIABETES MELLITUS — GLYCEMIC TARGETS
+=============================================================================
+
+HbA1c Targets:
+- General adult population with T2DM: HbA1c < 7.0% (53 mmol/mol)
+- Older adults (>= 65 years) without complex comorbidities: HbA1c < 7.5% (58 mmol/mol)
+- Older adults with complex comorbidities (multiple chronic conditions, frailty): HbA1c < 8.0% (64 mmol/mol)
+- Patients with high hypoglycemia risk: HbA1c < 8.0% (more lenient target)
+- Pregnancy: HbA1c 6.0-6.5% (optimal if safely achievable)
+
+Blood Glucose Targets:
+- Fasting/preprandial plasma glucose: 80-130 mg/dL (4.4-7.2 mmol/L)
+- 1-2 hour postprandial plasma glucose: < 180 mg/dL (< 10.0 mmol/L)
+
+Monitoring frequency:
+- Patients on insulin: Self-monitoring blood glucose (SMBG) multiple times daily
+- Patients on oral agents with no hypoglycemia risk: HbA1c every 3-6 months until target achieved, then every 6 months
+- Continuous glucose monitoring (CGM): Recommended for patients on multiple daily insulin injections
+
+=============================================================================
+SECTION 7: DIABETES MELLITUS — PHARMACOLOGICAL MANAGEMENT
+=============================================================================
+
+First-line therapy:
+- Metformin remains the preferred initial pharmacological agent for T2DM in most patients (if tolerated and no contraindications)
+- Contraindications to metformin: eGFR < 30 mL/min/1.73m2, active liver disease, excessive alcohol use, conditions predisposing to lactic acidosis
+- Dose: Start 500 mg once or twice daily with meals; titrate to 1000 mg twice daily
+
+Second-line and add-on therapies (choose based on patient comorbidities):
+1. GLP-1 Receptor Agonists (e.g., semaglutide, liraglutide, dulaglutide):
+   - Preferred add-on for patients with established cardiovascular disease (CVD), high CVD risk, or obesity
+   - Benefits: Weight reduction (3-5 kg), reduced cardiovascular events, renoprotective effect
+   
+2. SGLT-2 Inhibitors (e.g., empagliflozin, canagliflozin, dapagliflozin):
+   - Preferred add-on for patients with established CVD, heart failure, or CKD (eGFR >= 30 mL/min/1.73m2)
+   - Benefits: Reduced hospitalizations for heart failure, slows CKD progression, modest weight reduction
+   - Risk: Urinary tract infections, Fournier's gangrene (rare), euglycemic DKA
+   
+3. DPP-4 Inhibitors (e.g., sitagliptin, saxagliptin, linagliptin):
+   - Weight-neutral, low hypoglycemia risk
+   - Preferred in older adults with renal impairment (linagliptin does not require dose adjustment in CKD)
+   
+4. Sulfonylureas (e.g., glipizide, glimepiride, glyburide):
+   - Effective and low-cost but carry risk of hypoglycemia and modest weight gain
+   - Avoid glyburide in older adults and patients with CKD
+   
+5. Insulin therapy: Initiated when HbA1c remains above target despite oral agents
+   - Basal insulin (e.g., insulin glargine, detemir) preferred starting regimen
+   - Prandial insulin added when fasting glucose is at target but postprandial glucose remains elevated
+
+=============================================================================
+SECTION 8: COPD — DIAGNOSIS AND STAGING
+=============================================================================
+
+Chronic Obstructive Pulmonary Disease (COPD) is a common, preventable, and treatable disease characterized by persistent respiratory symptoms and airflow limitation due to airway and/or alveolar abnormalities, usually caused by significant exposure to noxious particles or gases (predominantly cigarette smoke).
+
+Diagnosis requires spirometry: Post-bronchodilator FEV1/FVC ratio < 0.70 confirms persistent airflow limitation.
+
+GOLD Spirometric Classification of COPD Severity (based on post-bronchodilator FEV1):
+- GOLD 1 (Mild): FEV1 >= 80% predicted
+- GOLD 2 (Moderate): FEV1 50-79% predicted
+- GOLD 3 (Severe): FEV1 30-49% predicted
+- GOLD 4 (Very Severe): FEV1 < 30% predicted
+
+Symptoms: Chronic dyspnea, chronic cough, chronic sputum production, recurrent lower respiratory tract infections, wheezing and chest tightness.
+
+Key risk factor: Cigarette smoking is the most important risk factor. Other risk factors include occupational dust and chemical exposure, indoor air pollution from biomass fuel burning, outdoor air pollution, and recurrent childhood respiratory infections.
+
+=============================================================================
+SECTION 9: COPD — PHARMACOLOGICAL MANAGEMENT
+=============================================================================
+
+Bronchodilators are the cornerstone of COPD pharmacotherapy:
+
+Short-acting bronchodilators (for symptom relief, as needed):
+- Short-acting beta2-agonists (SABA): salbutamol (albuterol), terbutaline
+- Short-acting muscarinic antagonists (SAMA): ipratropium
+
+Long-acting bronchodilators (for maintenance therapy):
+- Long-acting beta2-agonists (LABA): salmeterol, formoterol, indacaterol
+- Long-acting muscarinic antagonists (LAMA): tiotropium, umeclidinium, aclidinium
+- LAMA + LABA combination: preferred over either agent alone in patients with persistent symptoms
+
+Inhaled corticosteroids (ICS):
+- ICS + LABA combination recommended for patients with:
+  - FEV1 < 50% predicted AND frequent exacerbations (>= 2 moderate exacerbations per year or >= 1 requiring hospitalization)
+  - Blood eosinophil count >= 300 cells/μL
+- Risks: Pneumonia risk (particularly with fluticasone); do not use ICS monotherapy in COPD
+
+Systemic corticosteroids: Short courses (5 days, prednisone 40 mg/day) for acute exacerbations. Chronic systemic corticosteroids are not recommended.
+
+Oxygen therapy: Long-term oxygen therapy (LTOT) indicated when resting SpO2 <= 88% or PaO2 <= 55 mmHg. Minimum 15 hours/day.
+
+=============================================================================
+SECTION 10: CARDIOVASCULAR RISK REDUCTION
+=============================================================================
+
+Statin therapy for cardiovascular risk reduction:
+- All patients with T2DM aged 40-75 years: Initiate moderate-intensity statin therapy regardless of LDL level
+- Patients with established CVD (atherosclerotic cardiovascular disease, ASCVD): High-intensity statin therapy (atorvastatin 40-80 mg or rosuvastatin 20-40 mg)
+- LDL-C target: < 70 mg/dL (< 1.8 mmol/L) for very high-risk patients; < 100 mg/dL (< 2.6 mmol/L) for high-risk patients
+- Triglycerides target: < 150 mg/dL (< 1.7 mmol/L)
+- HDL-C: Low HDL-C (< 40 mg/dL in men, < 50 mg/dL in women) is an independent cardiovascular risk factor
+
+Antiplatelet therapy:
+- Low-dose aspirin (75-100 mg/day): Recommended for secondary prevention in patients with established CVD
+- For primary prevention: Only consider in high CVD risk patients where benefits outweigh bleeding risk; not routinely recommended in patients without established CVD
+
+Smoking cessation: Reduces cardiovascular event risk by 35-50% within 1 year of cessation. Pharmacotherapy options include nicotine replacement therapy (NRT), bupropion, or varenicline.
+
+Obesity management: BMI >= 30 kg/m2 is independently associated with hypertension, T2DM, dyslipidemia, and obstructive sleep apnea. Target weight loss of >= 5% body weight improves glycemic control and reduces cardiovascular risk factors.

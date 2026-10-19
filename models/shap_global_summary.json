@@ -1,0 +1,156 @@
+{
+  "global_feature_importance": [
+    {
+      "feature": "age",
+      "importance": 1.6595125198364258
+    },
+    {
+      "feature": "latest_hba1c",
+      "importance": 1.6472009420394897
+    },
+    {
+      "feature": "has_hypertension",
+      "importance": 1.3100099563598633
+    },
+    {
+      "feature": "latest_systolic_bp",
+      "importance": 0.6850659251213074
+    },
+    {
+      "feature": "latest_glucose",
+      "importance": 0.3727931082248688
+    },
+    {
+      "feature": "wellness_encounters",
+      "importance": 0.3550029397010803
+    },
+    {
+      "feature": "latest_diastolic_bp",
+      "importance": 0.2724047601222992
+    },
+    {
+      "feature": "total_conditions",
+      "importance": 0.22763876616954803
+    },
+    {
+      "feature": "has_diabetes",
+      "importance": 0.18306288123130798
+    },
+    {
+      "feature": "chronic_conditions",
+      "importance": 0.14037370681762695
+    },
+    {
+      "feature": "total_medications",
+      "importance": 0.13235744833946228
+    },
+    {
+      "feature": "total_procedures",
+      "importance": 0.11080122739076614
+    },
+    {
+      "feature": "has_copd",
+      "importance": 0.08447694778442383
+    },
+    {
+      "feature": "latest_ldl",
+      "importance": 0.08351359516382217
+    },
+    {
+      "feature": "has_heart_failure",
+      "importance": 0.0679207593202591
+    },
+    {
+      "feature": "latest_egfr",
+      "importance": 0.06086678057909012
+    },
+    {
+      "feature": "latest_hdl",
+      "importance": 0.0591234415769577
+    },
+    {
+      "feature": "is_deceased",
+      "importance": 0.05870278552174568
+    },
+    {
+      "feature": "active_medications",
+      "importance": 0.057566262781620026
+    },
+    {
+      "feature": "total_encounters",
+      "importance": 0.05701512470841408
+    },
+    {
+      "feature": "latest_bmi",
+      "importance": 0.05207288637757301
+    },
+    {
+      "feature": "outpatient",
+      "importance": 0.04915580525994301
+    },
+    {
+      "feature": "latest_cholesterol",
+      "importance": 0.042473528534173965
+    },
+    {
+      "feature": "latest_triglycerides",
+      "importance": 0.037703752517700195
+    },
+    {
+      "feature": "latest_heart_rate",
+      "importance": 0.02712441049516201
+    },
+    {
+      "feature": "inpatient_encounters",
+      "importance": 0.024212965741753578
+    },
+    {
+      "feature": "ambulatory_encounters",
+      "importance": 0.021678483113646507
+    },
+    {
+      "feature": "has_ckd",
+      "importance": 0.010035323910415173
+    },
+    {
+      "feature": "urgentcare_encounters",
+      "importance": 0.0069241891615092754
+    },
+    {
+      "feature": "is_female",
+      "importance": 0.004025562200695276
+    },
+    {
+      "feature": "has_obesity",
+      "importance": 0.0025974393356591463
+    },
+    {
+      "feature": "emergency_encounters",
+      "importance": 0.0
+    },
+    {
+      "feature": "race_asian",
+      "importance": 0.0
+    },
+    {
+      "feature": "race_black",
+      "importance": 0.0
+    },
+    {
+      "feature": "race_hawaiian",
+      "importance": 0.0
+    },
+    {
+      "feature": "race_native",
+      "importance": 0.0
+    },
+    {
+      "feature": "race_other",
+      "importance": 0.0
+    },
+    {
+      "feature": "race_white",
+      "importance": 0.0
+    }
+  ]
+}

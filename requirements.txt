@@ -1,0 +1,29 @@
+# MedGraph AI — Pinned Requirements (Python 3.9 compatible)
+
+# Data & ETL
+pandas==2.3.2
+pyarrow
+numpy
+
+# Machine Learning
+xgboost==2.1.4
+scikit-learn
+shap
+matplotlib
+
+# PDF Parsing
+pymupdf
+
+# Vector Database
+qdrant-client
+
+# Embeddings (Python 3.9 compatible version)
+fastembed
+
+# LangGraph Orchestration (pulls in langchain-core 0.3.x automatically)
+langgraph==0.6.11
+langchain-text-splitters==0.3.11
+
+# Gemini LLM: called via REST API using 'requests' (already installed)
+# No Google SDK needed - avoids Python 3.9 compatibility issues
+# requests is already a transitive dependency
